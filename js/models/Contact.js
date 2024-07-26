@@ -12,4 +12,5 @@ export class Contact {
         this.prenom = prenom;
         this.telephone = telephone;
     }
+
 }
